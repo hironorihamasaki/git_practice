@@ -15,6 +15,8 @@ Here's a list of commands:
 - **`git commit --amend`**: Alters the most recent save or “commit”—either the changes saved in it or the message attached to it.
 Sure, I'd be happy to provide some more examples:
 
+- **`git log -p -n`**: Shows the detailed diffs of the last 'n' commits. Replace 'n' with a number. For example, `git log -p -2` shows the changes from the last two commits.
+
 - **`git branch`**: Shows you all of the branches in your repository.
 
 - **`git branch <branch_name>`**: Creates a new branch named `<branch_name>`.
